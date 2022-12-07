@@ -295,7 +295,13 @@ body{
     line-height: 17px;
     color: #FFFFFF;
 }
-
-
+@media screen and ( max-width: 1200px ) {
+}
+@media screen and ( max-width: 998px ) {
+}
+@media screen and ( max-width: 768px ) {
+}
+@media screen and ( max-width: 576px ) {
+}
 
 
